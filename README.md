@@ -4,16 +4,21 @@
 ## Skill
 1+ years of experience in Blockchain Development 
 
-EVM | DeFi | Solidity | Security | Gas_Optimization
+[EVM](https://tom-sol.notion.site/Assembly-d442090024fd47a7b95293fda994bb79) | [DeFi](https://tom-sol.notion.site/DeFi-b47fa20c4ddc4f26bc78806de768142f) | [Solidity](https://tom-sol.notion.site/Solidity-eee552cb8af64438b8c3af71973de2f9) | [Security](https://tom-sol.notion.site/Security-0611ce7d8d644ca3a05716cf5f8e45d4) | [Gas_Optimization](https://tom-sol.notion.site/Gas-1252302616cd4145951f1fc7701eef9d)
+
+### OSS 
 
 [Translate ETH Yellow Paper](https://github.com/Tomosuke0930/ethereum_yellowpaper_jp)
 
+
 ### Blog
 
-[🤩 Upgradable UUPS ver](https://tom-sol.notion.site/Upgradable-UUPS-c8b9246c3a0745c58761204c8b1e0c24) | [🦄 Trip to UniswapV2 Contracts](https://tom-sol.notion.site/Trip-to-UniswapV2-Contracts-9be98302ee2c4123abed02360c69b0b4) | [🍣 Understanding Mastershef.sol](https://tom-sol.notion.site/illustrate-Understanding-Mastershef-sol-8c22dc3e883646fcba175b9486b42c5a) ...
+[🤩 Upgradable UUPS ver](https://tom-sol.notion.site/Upgradable-UUPS-c8b9246c3a0745c58761204c8b1e0c24) | [🦄 Trip to UniswapV2 Contracts](https://tom-sol.notion.site/Trip-to-UniswapV2-Contracts-9be98302ee2c4123abed02360c69b0b4) | [🍣 Understanding Mastershef.sol](https://tom-sol.notion.site/illustrate-Understanding-Mastershef-sol-8c22dc3e883646fcba175b9486b42c5a)
 
 
-[**Click to see more**][<img width="400" alt="Screen Shot 2022-07-15 at 23 23 49" src="https://user-images.githubusercontent.com/84496536/179243349-7b2897b0-3717-44da-b4a0-1ce444fce43a.png"> ](https://tom-sol.notion.site/tom-sol/TomoLabo-755d3474528145fd95e68ee90c18495a)
+_**👇 Click to see more**_
+
+[![image](https://user-images.githubusercontent.com/84496536/179244931-0949d771-c75d-4866-8320-3bdfb2042c3c.png)](https://tom-sol.notion.site/TomoLabo-755d3474528145fd95e68ee90c18495a)
 
 
 
@@ -31,21 +36,18 @@ EVM | DeFi | Solidity | Security | Gas_Optimization
 
 
 
-6+ years of experience in Web Development 
-React | React Native | Redux | Vue | Angular | Node | Typescript | Next | Nuxt | MongoDB | Tailwind CSS | Storybook  
+## Bio
+
+- 🔭 I’m currently working on [Angoya](https://www.ango-ya.org/) to create stable-coin project 
+     but now, I'm looking for **smart-contract audit firm**.
+- 🚀 Availability: Full-Time Supporting 40hrs/week
+- 🌱 Learning all about Security of smart-contract 👉 [Note](https://tom-sol.notion.site/Security-0611ce7d8d644ca3a05716cf5f8e45d4) 
+- 📫 Reach me 👉 https://twitter.com/tom_eth_dev
+- ⚡️ Fun fact: I went to a National tournament in weightlifting🏋️‍♀️ when I was in high school 👉 [Video](https://www.youtube.com/watch?v=YRmI6qRS_NE)
+
+_**👇 Click to see more**_
 
 
+[<img width="851" alt="Screen Shot 2022-07-15 at 23 45 01" src="https://user-images.githubusercontent.com/84496536/179247239-bcbca748-7d42-4737-9754-ae07b0a88975.png">](https://tom-sol.notion.site/Who-am-I-3b4dc28e77b647eb90794735a94dd38e)
 
-**Tomosuke0930/Tomosuke0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
