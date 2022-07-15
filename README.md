@@ -1,12 +1,6 @@
 ![名称未設定のデザイン (3)](https://user-images.githubusercontent.com/84496536/179229844-7186b583-1a46-4aab-8a43-b5d8314692a7.png)
 
 
-
-👨👩 Nice to meet you here  
-I'm a Full-Stack and Blockchain developer with over 9 years of experience. 
-![I'm Tom, I love](https://user-images.githubusercontent.com/84496536/179228941-3c371392-0906-486e-a443-4b01ca795f42.png)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomosuke0930)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomosuke0930)](https://github.com/anuraghazra/github-readme-stats)
