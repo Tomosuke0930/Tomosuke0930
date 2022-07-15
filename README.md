@@ -4,14 +4,13 @@
 
 # Activity
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomosuke0930&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomosuke0930&theme=solarized_dark)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tomosuke0930&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomosuke0930&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tomosuke0930&theme=solarized_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tomosuke0930&theme=solarized_dark&utcOffset=8)
 
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tomosuke0930&theme=default&utcOffset=8) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomosuke0930)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomosuke0930&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomosuke0930&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-statse)
 
 
 
