@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+👨👩 Nice to meet you here  
+I'm a Full-Stack and Blockchain developer with over 9 years of experience. 
+
+6+ years of experience in Web Development 
+React | React Native | Redux | Vue | Angular | Node | Typescript | Next | Nuxt | MongoDB | Tailwind CSS | Storybook  
+
+3+ years of experience in Blockchain Development 
+Solidity | Ether.js | Web3.js | Rust | Hardhat | Openzeppelin 
+
 <!--
 **Tomosuke0930/Tomosuke0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
