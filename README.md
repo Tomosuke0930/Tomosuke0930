@@ -1,8 +1,24 @@
 ![名称未設定のデザイン (3)](https://user-images.githubusercontent.com/84496536/179229844-7186b583-1a46-4aab-8a43-b5d8314692a7.png)
 
 
+## Skill
+1+ years of experience in Blockchain Development 
 
-# Activity
+EVM | DeFi | Solidity | Security | Gas_Optimization
+
+[Translate ETH Yellow Paper](https://github.com/Tomosuke0930/ethereum_yellowpaper_jp)
+
+### Blog
+
+[🤩 Upgradable UUPS ver](https://tom-sol.notion.site/Upgradable-UUPS-c8b9246c3a0745c58761204c8b1e0c24) | [🦄 Trip to UniswapV2 Contracts](https://tom-sol.notion.site/Trip-to-UniswapV2-Contracts-9be98302ee2c4123abed02360c69b0b4) | [🍣 Understanding Mastershef.sol](https://tom-sol.notion.site/illustrate-Understanding-Mastershef-sol-8c22dc3e883646fcba175b9486b42c5a) etc ...
+
+[**Click Me to see more**](https://tom-sol.notion.site/tom-sol/TomoLabo-755d3474528145fd95e68ee90c18495a)
+<img width="634" alt="Screen Shot 2022-07-15 at 23 23 49" src="https://user-images.githubusercontent.com/84496536/179243349-7b2897b0-3717-44da-b4a0-1ce444fce43a.png"> 
+
+
+
+
+## Activity
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomosuke0930&theme=solarized_dark)
 
@@ -18,8 +34,6 @@
 6+ years of experience in Web Development 
 React | React Native | Redux | Vue | Angular | Node | Typescript | Next | Nuxt | MongoDB | Tailwind CSS | Storybook  
 
-3+ years of experience in Blockchain Development 
-Solidity | Ether.js | Web3.js | Rust | Hardhat | Openzeppelin 
 
 
 **Tomosuke0930/Tomosuke0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
