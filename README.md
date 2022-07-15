@@ -3,6 +3,8 @@
 👨👩 Nice to meet you here  
 I'm a Full-Stack and Blockchain developer with over 9 years of experience. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Tomosuke0930=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 6+ years of experience in Web Development 
 React | React Native | Redux | Vue | Angular | Node | Typescript | Next | Nuxt | MongoDB | Tailwind CSS | Storybook  
 
