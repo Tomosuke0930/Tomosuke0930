@@ -22,20 +22,6 @@ _**👇 Click to see more**_
 
 
 
-
-## Activity
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomosuke0930&theme=solarized_dark)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tomosuke0930&theme=solarized_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tomosuke0930&theme=solarized_dark&utcOffset=8)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomosuke0930&layout=compact&theme=solarized-dark&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomosuke0930&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-statse)
-
-
-
-
 ## Bio
 
 - 🔭 I’m currently working on [Angoya](https://www.ango-ya.org/) to create stable-coin project 
@@ -51,3 +37,13 @@ _**👇 Click to see more**_
 [<img width="851" alt="Screen Shot 2022-07-15 at 23 45 01" src="https://user-images.githubusercontent.com/84496536/179247239-bcbca748-7d42-4737-9754-ae07b0a88975.png">](https://tom-sol.notion.site/Who-am-I-3b4dc28e77b647eb90794735a94dd38e)
 
 
+
+## Activity
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomosuke0930&theme=solarized_dark)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tomosuke0930&theme=solarized_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tomosuke0930&theme=solarized_dark&utcOffset=8)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomosuke0930&layout=compact&theme=solarized-dark&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomosuke0930&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-statse)
