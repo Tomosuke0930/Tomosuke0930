@@ -15,6 +15,8 @@
 
 [🤩 Upgradable UUPS ver](https://tom-sol.notion.site/Upgradable-UUPS-c8b9246c3a0745c58761204c8b1e0c24) | [🦄 Trip to UniswapV2 Contracts](https://tom-sol.notion.site/Trip-to-UniswapV2-Contracts-9be98302ee2c4123abed02360c69b0b4) | [🍣 Understanding Mastershef.sol](https://tom-sol.notion.site/illustrate-Understanding-Mastershef-sol-8c22dc3e883646fcba175b9486b42c5a)
 
+[🥷 EVM Deep Dives series | 6 articles](https://tom-sol.notion.site/EVM-Deep-Dives-The-Path-to-Shadowy-Super-Coder-a1ccf9ca37624dd6aa39c4fcc3de4e49) | [😎 Upgradable UUPS](https://tom-sol.notion.site/Upgradable-UUPS-c8b9246c3a0745c58761204c8b1e0c24)
+
 
 _**👇 Click to see more**_
 
