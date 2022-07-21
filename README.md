@@ -1,6 +1,12 @@
 ![名称未設定のデザイン (3)](https://user-images.githubusercontent.com/84496536/179229844-7186b583-1a46-4aab-8a43-b5d8314692a7.png)
 
 
+## Project
+Yo - Skill sharing service using ZKP and proposed new architecture
+
+https://github.com/Tomosuke0930/Yo
+
+
 ## Skill
 1+ years of experience in Blockchain Development 
 
