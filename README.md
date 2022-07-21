@@ -4,7 +4,7 @@
 ## Skill
 1+ years of experience in Blockchain Development 
 
-[EVM](https://tom-sol.notion.site/Assembly-d442090024fd47a7b95293fda994bb79) | [DeFi](https://tom-sol.notion.site/DeFi-b47fa20c4ddc4f26bc78806de768142f) | [Solidity](https://tom-sol.notion.site/Solidity-eee552cb8af64438b8c3af71973de2f9) | [Security](https://tom-sol.notion.site/Security-0611ce7d8d644ca3a05716cf5f8e45d4) | [Gas_Optimization](https://tom-sol.notion.site/Gas-1252302616cd4145951f1fc7701eef9d)
+[EVM](https://tom-sol.notion.site/Assembly-d442090024fd47a7b95293fda994bb79) | [DeFi](https://tom-sol.notion.site/DeFi-b47fa20c4ddc4f26bc78806de768142f) | [Solidity](https://tom-sol.notion.site/Solidity-eee552cb8af64438b8c3af71973de2f9) | [Security](https://tom-sol.notion.site/Security-0611ce7d8d644ca3a05716cf5f8e45d4) | [Gas_Optimization](https://tom-sol.notion.site/Gas-1252302616cd4145951f1fc7701eef9d) | [Assemby](https://tom-sol.notion.site/Assembly-d442090024fd47a7b95293fda994bb79)
 
 ### OSS 
 
