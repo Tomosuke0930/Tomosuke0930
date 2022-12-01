@@ -1,5 +1,9 @@
 ![名称未設定のデザイン (3)](https://user-images.githubusercontent.com/84496536/179229844-7186b583-1a46-4aab-8a43-b5d8314692a7.png)
 
+## 🕵️‍♂️ Smart Contract Auditor
+_Click here_
+[<img width="945" alt="Screenshot 2022-12-01 at 10 51 05" src="https://user-images.githubusercontent.com/84496536/204946775-52e8206b-29bb-43b4-b343-5fdb0672f56c.png">](https://tom-sol.notion.site/My-Web3-Audit-Journey-6199d15bee35445fb0d251b4ca302cc5)
+
 
 ## Project
 Yo - Skill sharing service using ZKP and proposed new architecture
